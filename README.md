@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+A small convenient application that allows you to keep a to-do list, cross out and delete already done ones.
 
 ## Getting Started
 
